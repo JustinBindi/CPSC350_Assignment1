@@ -1,11 +1,11 @@
-ATCCGGATGCGTA
-ATCGTCGTCAT
+ATCCGGATGCGT
+ATCGTCGTCA
 acggcatcgtacgt
-tatgcgagtacgtacgtcgtcatgc
+tatgcgagtacgtacgtcgtcatg
 cgtagtcagt
 ACGC
 ACTGATACGTCATGCA
 ATAGCATGATCACG
 ATACGTATGATGACTG
 ATGAGTCAGA
-ataatAGAGCT
+ataatAGAGC
